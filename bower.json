@@ -1,0 +1,22 @@
+{
+  "name": "ex2",
+  "description": "",
+  "main": "bin/www",
+  "authors": [
+    "devinsh <devinsh24@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/bellcliff/practice-mean",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "public/libs"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
